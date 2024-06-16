@@ -15,7 +15,7 @@ text-align: center;
   flex-direction: column;
 }
 header{
-    padding: 30px;
+    padding: 20px;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -31,7 +31,7 @@ img{
 main{
     width: 100%;
     height: 100%;
-    padding: 30px;
+    padding: 20px;
     flex-grow: 1;
 }
 
@@ -41,8 +41,8 @@ margin-bottom: 20px;
   direction: ltr;
 }
 .farsi-header {
-    margin-top: 50px;
-margin-bottom: 20px;
+    margin-top: 25px;
+margin-bottom: 15px;
   direction: rtl;
 }
 
@@ -56,7 +56,7 @@ footer{
     width: 100%;
     background: black;
     color: white;
-    padding: 30px;
+    padding: 20px;
     font-size: 18px;
 }
 
@@ -68,6 +68,6 @@ a{
     color: black;
     cursor: pointer;
     font-size: 15px;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 
