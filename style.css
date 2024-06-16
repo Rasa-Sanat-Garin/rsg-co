@@ -35,12 +35,12 @@ main{
 }
 
 .english-header {
-    margin-top: 50px;
+    margin-top: 20px;
 margin-bottom: 20px;
   direction: ltr;
 }
 .farsi-header {
-    margin-top: 25px;
+    margin-top: 20px;
 margin-bottom: 15px;
   direction: rtl;
 }
@@ -60,7 +60,7 @@ footer{
 }
 
 .contact{
-    margin-top: 80px;
+    margin-top: 30px;
 }
 a{
     display: block;
